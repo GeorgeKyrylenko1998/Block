@@ -1,0 +1,9 @@
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\bin\Debug\InfoControl.exe.config
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\bin\Debug\InfoControl.exe
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\bin\Debug\InfoControl.pdb
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.Form1.resources
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.Properties.Resources.resources
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.csproj.GenerateResource.Cache
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.exe
+C:\Users\dinoz\Desktop\InfoControl\InfoControl\obj\Debug\InfoControl.pdb
